@@ -1,0 +1,9 @@
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\MVCTask1.DAL.dll.config
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\MVCTask1.DAL.dll
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\MVCTask1.DAL.pdb
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\EntityFramework.dll
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\EntityFramework.xml
+D:\MVCTask1\MVCTask1.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\MVCTask1\MVCTask1.DAL\obj\Debug\MVCTask1.DAL.dll
+D:\MVCTask1\MVCTask1.DAL\obj\Debug\MVCTask1.DAL.pdb
